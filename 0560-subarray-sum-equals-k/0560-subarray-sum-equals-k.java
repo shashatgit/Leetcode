@@ -1,26 +1,23 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
+        int sum = 0;
         int count = 0;
-        
-        if (nums [nums.length-1] == k )
+        HashMap <Integer,Integer> psum = new HashMap <>();
+        psum.put(0,1);
+        for (int i : nums)
         {
-            count++;
-        }
-        for (int i = 0; i < nums.length-1; i++)
-        {
-            int sum = nums[i];
-            if (sum == k)
+            sum = sum + i;
+            
+            if (psum.containsKey(sum - k))
             {
-                count++;
+                int n = psum.get(sum-k);
+                count = count + n;
             }
-            for (int j = i+1; j < nums.length; j++)
-            {
-                sum = sum + nums[j];
-                if (sum == k)
-                {
-                    count++;
-                }
+            if (psum.containsKey(sum)){
+                int n = psum.get(sum);
+                psum.put(sum, n + 1 );
             }
+            else psum.put(sum,1);
         }
         return count;
     }
