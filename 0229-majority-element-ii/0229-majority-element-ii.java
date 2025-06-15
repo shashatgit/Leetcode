@@ -16,6 +16,10 @@ class Solution {
             if(e.getValue() > nums.length/3)
             {
                 result.add(e.getKey());
+                if (result.size() == 2)
+                {
+                    return result;
+                }
             }
         }
         return result;
