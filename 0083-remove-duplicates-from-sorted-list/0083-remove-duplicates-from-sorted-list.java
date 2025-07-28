@@ -16,7 +16,9 @@ class Solution {
             if (itr.val == itr.next.val){
                 itr.next = itr.next.next;
             }
-            itr = itr.next;
+            if ( itr.next != null && itr.next.val != itr.val){
+                itr = itr.next;
+            }
         }
         return head;
     }
