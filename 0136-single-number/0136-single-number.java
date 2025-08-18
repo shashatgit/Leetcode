@@ -1,18 +1,9 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        HashSet<Integer> single = new HashSet<>();
-
-        for (int i : nums){
-            if (!single.contains(i))
-            {
-                single.add(i);
-            }
-            else single.remove(i);
+        int ans=0; //since XOR with 0 returns same number 
+        for(int i=0; i<nums.length; i++){
+            ans ^= nums[i];  // ans = (ans) XOR (array element at i) 
         }
-        for (Integer i : single)
-        {
-            return i;
-        }
-        return -1;
+        return ans;    
     }
 }
