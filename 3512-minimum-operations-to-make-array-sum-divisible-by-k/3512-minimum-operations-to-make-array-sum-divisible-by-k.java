@@ -1,14 +1,10 @@
 class Solution {
-    public int sum(int[] nums)
-    {
-        int count = 0;
-        for (int i : nums)
-        {
-            count += i;
-        }
-        return count;
-    }
     public int minOperations(int[] nums, int k) {
-        return sum(nums)%k;
+        int sum =0;
+        for(int i = 0 ; i<nums.length;i++){
+          sum += nums[i];
+        }
+        int ans = sum % k;
+        return ans;
     }
 }
