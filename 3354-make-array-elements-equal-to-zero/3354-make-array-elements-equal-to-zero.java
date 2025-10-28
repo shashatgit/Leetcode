@@ -1,14 +1,9 @@
 class Solution {
     int res = 0;
-    public void check(int ind, int[] nums)
+    public void check(int ind, int ls, int[] nums)
     {
         int n = nums.length;
-        int ls = 0;
         int rs = 0;
-        for (int i = 0; i < ind; i++)
-        {
-            ls += nums[i];
-        }
         for (int j = ind; j < n; j++)
         {
             rs += nums[j];
@@ -19,9 +14,11 @@ class Solution {
     }
     public int countValidSelections(int[] nums) {
         int n = nums.length;
+        int currSum = 0;
         for(int i = 0; i < n; i++)
         {
-            if(nums[i] == 0) check(i,nums);
+            currSum += nums[i];
+            if(nums[i] == 0) check(i,currSum,nums);
         }
         return res;
     }
