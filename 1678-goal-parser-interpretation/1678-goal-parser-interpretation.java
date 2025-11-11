@@ -7,8 +7,14 @@ class Solution {
             if (command.charAt(i) == 'G') sb.append('G');
             else if (command.charAt(i) == '(')
             {
-                if(command.charAt(i+1) == ')') sb.append('o');
-                else sb.append("al");
+                if(command.charAt(i+1) == ')'){
+                    sb.append('o');
+                    i++;
+                }
+                else{
+                    sb.append("al");
+                    i += 3;
+                }
             }
         }
         return sb.toString();
