@@ -40,8 +40,7 @@ class LRUCache {
         if (!cache.containsKey(key)) return -1;
         Node tomove = cache.get(key);
         remove(tomove);
-        add(tomove);
-        cache.put(key, tomove);    
+        add(tomove);    
         return tomove.value;
     }
     
