@@ -1,5 +1,4 @@
 class LRUCache {
-    int curr = 0;
     Node left, right;
     HashMap<Integer, Node> cache;   
     public void remove(Node node)
