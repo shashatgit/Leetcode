@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/shashatgit/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [1492-the-kth-factor-of-n](https://github.com/shashatgit/Leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +70,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashatgit/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/shashatgit/Leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 <!---LeetCode Topics End-->
