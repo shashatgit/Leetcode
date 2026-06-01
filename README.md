@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shashatgit/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shashatgit/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashatgit/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2540-minimum-common-value](https://github.com/shashatgit/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shashatgit/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Two Pointers
@@ -60,4 +61,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shashatgit/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shashatgit/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashatgit/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashatgit/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 <!---LeetCode Topics End-->
