@@ -7,7 +7,11 @@ class Solution {
             int n = s.length();
             for(int j = 1; j < n-1; j++)
             {
-                if((s.charAt(j) > s.charAt(j-1) && s.charAt(j) > s.charAt(j+1)) || (s.charAt(j) < s.charAt(j-1) && s.charAt(j) < s.charAt(j+1)))
+                char prev = s.charAt(j-1);
+                char curr = s.charAt(j);
+                char next = s.charAt(j+1);
+
+                if((curr > prev && curr > next) || (curr < prev && curr < next))
                 {
                     count++;
                 }
