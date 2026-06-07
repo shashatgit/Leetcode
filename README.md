@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/shashatgit/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0258-add-digits](https://github.com/shashatgit/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/shashatgit/Leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shashatgit/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Dynamic Programming
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/shashatgit/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/shashatgit/Leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -117,4 +119,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/shashatgit/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/shashatgit/Leetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
