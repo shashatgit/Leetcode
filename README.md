@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shashatgit/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shashatgit/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shashatgit/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/shashatgit/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2405-optimal-partition-of-string](https://github.com/shashatgit/Leetcode/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shashatgit/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shashatgit/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/shashatgit/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
