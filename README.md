@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/shashatgit/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/shashatgit/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/shashatgit/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0213-house-robber-ii](https://github.com/shashatgit/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/shashatgit/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shashatgit/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashatgit/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/shashatgit/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/shashatgit/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/shashatgit/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shashatgit/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
