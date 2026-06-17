@@ -10,7 +10,7 @@ class Solution {
             return 0;
         }
         if(o[x][y] == 1) return 0;
-        if(dp[y][x] > 0)
+        if(dp[y][x] >= 0)
         {
             return dp[y][x];
         }
@@ -29,6 +29,10 @@ class Solution {
             else return 0;
         }
         int[][] dp = new int[m][n];
+        for(int i = 0; i < m; i++)
+        {
+            Arrays.fill(dp[i], -1);
+        }
         int paths = prevStep(obstacleGrid,dp,m,n,n-1,m-1);
         return paths;
     }
