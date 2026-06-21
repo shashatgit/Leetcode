@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/shashatgit/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/shashatgit/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shashatgit/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/shashatgit/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashatgit/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shashatgit/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/shashatgit/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/shashatgit/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashatgit/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2405-optimal-partition-of-string](https://github.com/shashatgit/Leetcode/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shashatgit/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/shashatgit/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashatgit/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shashatgit/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shashatgit/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -162,4 +165,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/shashatgit/Leetcode/tree/main/0062-unique-paths/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/shashatgit/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
