@@ -5,8 +5,8 @@ class Solution {
     {
         if (target < 0) return false;
         if (target == 0) return true;
-        if (n == 0) return arr[0] == target;
         if(dp[n][target] != -1) return dp[n][target] == 1;
+        if (n == 0) return arr[0] == target;
         boolean notTake = check(arr, n - 1, target);
         boolean take = check(arr, n - 1, target - arr[n]);
         if(take || notTake == true) dp[n][target] = 1;
