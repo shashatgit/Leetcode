@@ -1,30 +1,44 @@
 class Solution {
-    int sum = 0;
     int[][] dp;
-    public boolean check(int[] arr, int n, int target)
-    {
-        if (target < 0) return false;
+
+    public boolean check(int[] arr, int n, int target) {
         if (target == 0) return true;
-        if(dp[n][target] != -1) return dp[n][target] == 1;
-        if (n == 0) return arr[0] == target;
+
+        if (dp[n][target] != -1)
+            return dp[n][target] == 1;
+
+        if (n == 0) {
+            dp[0][target] = (arr[0] == target) ? 1 : 0;
+            return dp[0][target] == 1;
+        }
+
         boolean notTake = check(arr, n - 1, target);
-        boolean take = check(arr, n - 1, target - arr[n]);
-        if(take || notTake == true) dp[n][target] = 1;
-        else dp[n][target] = 0;
-        return (take || notTake);
+
+        boolean take = false;
+        if (arr[n] <= target) {
+            take = check(arr, n - 1, target - arr[n]);
+        }
+
+        dp[n][target] = (take || notTake) ? 1 : 0;
+        return dp[n][target] == 1;
     }
+
     public boolean canPartition(int[] nums) {
+        int sum = 0;
+        for (int num : nums) {
+            sum += num;
+        }
+
+        if ((sum & 1) == 1) return false;
+
+        int target = sum / 2;
         int n = nums.length;
-        for(int i : nums)
-        {
-            sum += i;
+
+        dp = new int[n][target + 1];
+        for (int[] row : dp) {
+            Arrays.fill(row, -1);
         }
-        dp = new int[n][sum/2 + 1];
-        for(int i = 0; i < n; i++)
-        {
-            Arrays.fill(dp[i], -1);
-        }
-        if(sum % 2 != 0) return false;
-        return check(nums, n - 1, sum/2);
+
+        return check(nums, n - 1, target);
     }
 }
