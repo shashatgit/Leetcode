@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/shashatgit/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/shashatgit/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/shashatgit/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0322-coin-change](https://github.com/shashatgit/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/shashatgit/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/shashatgit/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shashatgit/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashatgit/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/shashatgit/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/shashatgit/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/shashatgit/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/shashatgit/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/shashatgit/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shashatgit/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/shashatgit/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0322-coin-change](https://github.com/shashatgit/Leetcode/tree/main/0322-coin-change/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
