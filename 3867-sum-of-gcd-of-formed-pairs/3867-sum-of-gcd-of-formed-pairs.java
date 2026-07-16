@@ -13,7 +13,8 @@ class Solution {
         for(int i = 0; i < n; i++)
         {
             max = Math.max(max, nums[i]);
-            pref[i] = gcd(max, nums[i]);
+            if(max == nums[i]) pref[i] = max;
+            else pref[i] = gcd(max, nums[i]);
         }
         Arrays.sort(pref);
         int i = 0;
