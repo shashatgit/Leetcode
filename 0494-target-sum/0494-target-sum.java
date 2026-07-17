@@ -16,10 +16,6 @@ class Solution {
     }
     public int findTargetSumWays(int[] nums, int target) {
         int n = nums.length;
-        if(n == 1)
-        {
-            if(nums[0] == target && nums[0] == 0) return 2;
-        }
         return calc(nums, n-1, target);
     }
 }
