@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/shashatgit/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shashatgit/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/shashatgit/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shashatgit/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashatgit/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shashatgit/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/shashatgit/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/shashatgit/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shashatgit/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/shashatgit/Leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shashatgit/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shashatgit/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shashatgit/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shashatgit/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/shashatgit/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/shashatgit/Leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shashatgit/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shashatgit/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashatgit/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Enumeration
