@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/shashatgit/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/shashatgit/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/shashatgit/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [1260-shift-2d-grid](https://github.com/shashatgit/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/shashatgit/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shashatgit/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/shashatgit/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -194,11 +195,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/shashatgit/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shashatgit/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/shashatgit/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [1260-shift-2d-grid](https://github.com/shashatgit/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/shashatgit/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/shashatgit/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [1260-shift-2d-grid](https://github.com/shashatgit/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shashatgit/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/shashatgit/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/shashatgit/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
