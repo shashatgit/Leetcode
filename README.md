@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2506-count-pairs-of-similar-strings](https://github.com/shashatgit/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shashatgit/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shashatgit/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shashatgit/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/shashatgit/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/shashatgit/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/shashatgit/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/shashatgit/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashatgit/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shashatgit/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/shashatgit/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shashatgit/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shashatgit/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/shashatgit/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shashatgit/Leetcode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/shashatgit/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shashatgit/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
