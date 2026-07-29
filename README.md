@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/shashatgit/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/shashatgit/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/shashatgit/Leetcode/tree/main/0494-target-sum/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/shashatgit/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/shashatgit/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/shashatgit/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shashatgit/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/shashatgit/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashatgit/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/shashatgit/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/shashatgit/Leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
