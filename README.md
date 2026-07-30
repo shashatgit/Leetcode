@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1344-angle-between-hands-of-a-clock](https://github.com/shashatgit/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/shashatgit/Leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashatgit/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashatgit/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/shashatgit/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shashatgit/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shashatgit/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2109-adding-spaces-to-a-string](https://github.com/shashatgit/Leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/shashatgit/Leetcode/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/shashatgit/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashatgit/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shashatgit/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shashatgit/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shashatgit/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/shashatgit/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shashatgit/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2405-optimal-partition-of-string](https://github.com/shashatgit/Leetcode/tree/main/2405-optimal-partition-of-string/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashatgit/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shashatgit/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shashatgit/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/shashatgit/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
