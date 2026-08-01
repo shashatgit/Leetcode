@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/shashatgit/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0120-triangle](https://github.com/shashatgit/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashatgit/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashatgit/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/shashatgit/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/shashatgit/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/shashatgit/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashatgit/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shashatgit/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/shashatgit/Leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shashatgit/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shashatgit/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashatgit/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [2540-minimum-common-value](https://github.com/shashatgit/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shashatgit/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shashatgit/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
