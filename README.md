@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/shashatgit/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shashatgit/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/shashatgit/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1572-matrix-diagonal-sum](https://github.com/shashatgit/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/shashatgit/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shashatgit/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/shashatgit/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/shashatgit/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/shashatgit/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/shashatgit/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1572-matrix-diagonal-sum](https://github.com/shashatgit/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
