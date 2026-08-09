@@ -17,9 +17,9 @@ class Solution {
                 }
             }
         }
-        return dp[n][n];
+        return n - dp[n][n];
     }
     public int minInsertions(String s) {
-        return s.length() - longestPalindromeSubseq(s);
+        return longestPalindromeSubseq(s);
     }
 }
