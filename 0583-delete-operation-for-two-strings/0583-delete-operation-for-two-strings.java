@@ -1,6 +1,8 @@
 class Solution {
     int[][] dp;
-    public int lcs(String s1, String s2, int n, int m)
+    int n;
+    int m;
+    public int lcs(String s1, String s2)
     {
         for(int i = 1; i <= n; i++)
         {
@@ -16,9 +18,9 @@ class Solution {
         return dp[n][m];
     }
     public int minDistance(String word1, String word2) {
-        int n = word1.length();
-        int m = word2.length();
+        n = word1.length();
+        m = word2.length();
         dp = new int[n+1][m+1];
-        return  n + m - 2*lcs(word1,word2,n,m);
+        return  n + m - 2*lcs(word1,word2);
     }
 }
