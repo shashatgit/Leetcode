@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/shashatgit/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/shashatgit/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/shashatgit/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/shashatgit/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shashatgit/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/shashatgit/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shashatgit/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/shashatgit/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/shashatgit/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashatgit/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/shashatgit/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/shashatgit/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shashatgit/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shashatgit/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/shashatgit/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/shashatgit/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
