@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/shashatgit/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shashatgit/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/shashatgit/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/shashatgit/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/shashatgit/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/shashatgit/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashatgit/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/shashatgit/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/shashatgit/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/shashatgit/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/shashatgit/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
