@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/shashatgit/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0062-unique-paths](https://github.com/shashatgit/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/shashatgit/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shashatgit/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/shashatgit/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/shashatgit/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/shashatgit/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/shashatgit/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/shashatgit/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashatgit/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashatgit/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/shashatgit/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -312,4 +315,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shashatgit/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0044-wildcard-matching](https://github.com/shashatgit/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 <!---LeetCode Topics End-->
