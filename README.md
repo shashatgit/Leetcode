@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shashatgit/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/shashatgit/Leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shashatgit/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shashatgit/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/shashatgit/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shashatgit/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/shashatgit/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shashatgit/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shashatgit/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/shashatgit/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/shashatgit/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shashatgit/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
