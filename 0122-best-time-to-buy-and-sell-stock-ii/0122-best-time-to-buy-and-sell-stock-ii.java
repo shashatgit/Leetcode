@@ -5,9 +5,9 @@ class Solution {
         int n = prices.length;
         int cost = prices[0];
         int profit = 0;
-        while(j < n)
+        while (j < n)
         {
-            if(prices[j] < prices[i])
+            if (prices[j] < prices[i])
             {
                 profit += prices[i] - cost;
                 cost = prices[j];
