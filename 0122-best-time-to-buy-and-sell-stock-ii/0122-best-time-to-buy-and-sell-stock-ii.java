@@ -23,7 +23,7 @@ class Solution {
     }
     public int maxProfit(int[] prices) {
         m = prices.length;
-        dp = new int[m+1][2];
+        dp = new int[m][2];
         for(int i = 0; i < m; i++)
         {
             Arrays.fill(dp[i], -1);
