@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/shashatgit/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0258-add-digits](https://github.com/shashatgit/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashatgit/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/shashatgit/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shashatgit/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/shashatgit/Leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashatgit/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -335,4 +336,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/shashatgit/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/shashatgit/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
