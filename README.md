@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1092-shortest-common-supersequence](https://github.com/shashatgit/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/shashatgit/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shashatgit/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/shashatgit/Leetcode/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shashatgit/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/shashatgit/Leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/shashatgit/Leetcode/tree/main/2405-optimal-partition-of-string/) | Medium |
