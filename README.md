@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/shashatgit/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shashatgit/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/shashatgit/Leetcode/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shashatgit/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shashatgit/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/shashatgit/Leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/shashatgit/Leetcode/tree/main/2405-optimal-partition-of-string/) | Medium |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashatgit/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shashatgit/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shashatgit/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/shashatgit/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Combinatorics
@@ -351,4 +353,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/shashatgit/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shashatgit/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
